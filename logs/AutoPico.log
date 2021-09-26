@@ -1,0 +1,31 @@
+09:49:04:897 2019.12.24 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 2019-12-24 09:49:04
+
+09:49:04:897 Checking Internet Connection...
+09:49:04:927 Windows Detected: Windows 7 Ultimate : Ultimate : 6.1 : 7601
+09:49:04:930 Using host Local: 127.34.87.10:1688
+09:49:04:933 Opening Firewall Port...
+09:49:05:002 Opening Firewall App...
+09:49:05:382 KMSEmulator Port: 1688
+09:49:05:382 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+09:49:05:391 KMSEmulator running port: 1688
+09:49:05:392 Office 2013 Skipped
+09:49:05:392 Office 2016 Skipped
+09:49:05:399 Office 2010 Skipped
+09:49:05:466 Found Windows Products: 1
+09:49:05:468 Name: Windows(R) 7, Ultimate edition
+Description: Windows Operating System - Windows(R) 7, OEM_SLP channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: HYRR2
+
+09:49:05:469 Version Windows Skipped
+09:49:05:470 Closing Firewall Port...
+09:49:05:521 Closing Firewall App...
+09:49:05:584 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+09:49:05:586 Time Finish: 2019-12-24 09:49:05
+09:49:05:586 Total Time: 0 seconds
+09:49:05:595 Client listener shut down
